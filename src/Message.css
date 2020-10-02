@@ -16,3 +16,15 @@
 .message__guestCard{
     background-color:white !important;
 }
+/* The close button 
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+*/
